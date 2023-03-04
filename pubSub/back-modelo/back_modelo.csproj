@@ -15,7 +15,7 @@
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.0.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.0.0" />
-    <PackageReference Include="MongoDB.Driver" Version="2.9.3" />
+    <PackageReference Include="MongoDB.Driver" Version="2.19.0" />
     <PackageReference Include="Nlog.Extensions.Logging" Version="1.5.1" />
     <PackageReference Include="ChoETL" Version="1.0.9.5" />
     <PackageReference Include="AutoMapper" Version="8.1.1" />
